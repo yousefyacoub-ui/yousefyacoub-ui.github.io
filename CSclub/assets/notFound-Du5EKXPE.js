@@ -1,0 +1,1 @@
+import{t,e as p}from"./index-BVj04QYS.js";import{p as r}from"./page-DJ4r8-tm.js";import"./disclaimer-BJ2ckZGu.js";function m(o){const{root:e,body:n}=r({titleKey:"notFound.title",intro:t("notFound.text")});n.appendChild(p("a",{class:"btn btn-primary",href:"#/home"},t("app.home"))),o.appendChild(e)}export{m as render};
