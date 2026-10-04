@@ -1,0 +1,1 @@
+import{e as r,t as o}from"./index-Xla1lLvc.js";function n(t,e){t.innerHTML="";const p=r("div",{class:"card error-state",role:"alert"},[r("p",{},o("app.loadError")),r("button",{class:"btn btn-primary",type:"button",onclick:e},o("app.retry"))]);t.appendChild(p)}export{n as renderError};
