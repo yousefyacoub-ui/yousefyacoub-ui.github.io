@@ -1,0 +1,10 @@
+{
+  "name": "Pink Day · اليوم الوردي",
+  "short_name": "Pink Day",
+  "description": "Breast Cancer Awareness Day, Kuwait University, College of Science (South). Biological Sciences Club.",
+  "start_url": "./#/home",
+  "display": "standalone",
+  "background_color": "#fff6f8",
+  "theme_color": "#e0558a",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
