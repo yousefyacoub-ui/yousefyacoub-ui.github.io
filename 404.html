@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Pink Day</title>
     <script>
+      // GitHub Pages fallback: send unknown paths into the hash router.
       var path = location.pathname.replace(/\/404\.html$/, '/');
       if (!path.endsWith('/')) path += '/';
       var hash = location.hash && location.hash !== '#' ? location.hash : '#/home';
